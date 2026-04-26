@@ -1,0 +1,18 @@
+# Ignora pastas de dados
+data/
+datasets/
+
+# Ignora arquivos de captura de rede
+*.pcap
+*.pcapng
+
+# Ignora arquivos CSV ou JSON grandes
+*.csv
+*.json
+
+# Ignora modelos de ML e ambientes virtuais
+*.pkl
+*.h5
+*.model
+.venv/
+venv/
