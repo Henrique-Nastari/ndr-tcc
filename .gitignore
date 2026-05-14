@@ -1,0 +1,18 @@
+# Ambiente Virtual do Python
+.venv/
+venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração do PyCharm
+.idea/
+
+# O Dataset! A pasta mais importante a ser ignorada.
+MachineLearningCSV/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
